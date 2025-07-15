@@ -1,0 +1,23 @@
+.sliderContainer {
+  width: 100%;
+  padding: 20px 0;
+}
+
+.card {
+  background: #ffffff11;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}

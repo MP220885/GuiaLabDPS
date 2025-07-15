@@ -1,0 +1,87 @@
+[
+  {
+    "año": 2020,
+    "ventas": [
+      { "mes": "Enero", "valor": 8700 },
+      { "mes": "Febrero", "valor": 7200 },
+      { "mes": "Marzo", "valor": 9800 },
+      { "mes": "Abril", "valor": 6600 },
+      { "mes": "Mayo", "valor": 7500 },
+      { "mes": "Junio", "valor": 10400 },
+      { "mes": "Julio", "valor": 9400 },
+      { "mes": "Agosto", "valor": 8100 },
+      { "mes": "Septiembre", "valor": 8900 },
+      { "mes": "Octubre", "valor": 9700 },
+      { "mes": "Noviembre", "valor": 10200 },
+      { "mes": "Diciembre", "valor": 12500 }
+    ]
+  },
+  {
+    "año": 2021,
+    "ventas": [
+      { "mes": "Enero", "valor": 10800 },
+      { "mes": "Febrero", "valor": 9600 },
+      { "mes": "Marzo", "valor": 12000 },
+      { "mes": "Abril", "valor": 11400 },
+      { "mes": "Mayo", "valor": 10500 },
+      { "mes": "Junio", "valor": 11100 },
+      { "mes": "Julio", "valor": 13200 },
+      { "mes": "Agosto", "valor": 12600 },
+      { "mes": "Septiembre", "valor": 11900 },
+      { "mes": "Octubre", "valor": 14000 },
+      { "mes": "Noviembre", "valor": 13500 },
+      { "mes": "Diciembre", "valor": 16800 }
+    ]
+  },
+  {
+    "año": 2022,
+    "ventas": [
+      { "mes": "Enero", "valor": 14200 },
+      { "mes": "Febrero", "valor": 13100 },
+      { "mes": "Marzo", "valor": 14900 },
+      { "mes": "Abril", "valor": 12700 },
+      { "mes": "Mayo", "valor": 13700 },
+      { "mes": "Junio", "valor": 15100 },
+      { "mes": "Julio", "valor": 15800 },
+      { "mes": "Agosto", "valor": 16500 },
+      { "mes": "Septiembre", "valor": 14800 },
+      { "mes": "Octubre", "valor": 16000 },
+      { "mes": "Noviembre", "valor": 17400 },
+      { "mes": "Diciembre", "valor": 19200 }
+    ]
+  },
+  {
+    "año": 2023,
+    "ventas": [
+      { "mes": "Enero", "valor": 17000 },
+      { "mes": "Febrero", "valor": 15300 },
+      { "mes": "Marzo", "valor": 18600 },
+      { "mes": "Abril", "valor": 17400 },
+      { "mes": "Mayo", "valor": 16200 },
+      { "mes": "Junio", "valor": 18500 },
+      { "mes": "Julio", "valor": 19300 },
+      { "mes": "Agosto", "valor": 20700 },
+      { "mes": "Septiembre", "valor": 19200 },
+      { "mes": "Octubre", "valor": 20100 },
+      { "mes": "Noviembre", "valor": 21900 },
+      { "mes": "Diciembre", "valor": 24000 }
+    ]
+  },
+  {
+    "año": 2024,
+    "ventas": [
+      { "mes": "Enero", "valor": 18800 },
+      { "mes": "Febrero", "valor": 17400 },
+      { "mes": "Marzo", "valor": 20500 },
+      { "mes": "Abril", "valor": 21000 },
+      { "mes": "Mayo", "valor": 19800 },
+      { "mes": "Junio", "valor": 22400 },
+      { "mes": "Julio", "valor": 23500 },
+      { "mes": "Agosto", "valor": 24500 },
+      { "mes": "Septiembre", "valor": 23800 },
+      { "mes": "Octubre", "valor": 25600 },
+      { "mes": "Noviembre", "valor": 26800 },
+      { "mes": "Diciembre", "valor": 29500 }
+    ]
+  }
+]

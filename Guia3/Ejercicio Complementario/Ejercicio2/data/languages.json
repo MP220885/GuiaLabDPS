@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "description": "Lenguaje de programación interpretado, orientado a objetos y funcional.",
+    "image": "/images/javascript.png"
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "description": "Lenguaje de alto nivel, fácil de aprender y con muchas bibliotecas.",
+    "image": "/images/python.jpg"
+  },
+  {
+    "id": 3,
+    "name": "C++",
+    "description": "Lenguaje potente y rápido, usado en sistemas embebidos y videojuegos.",
+    "image": "/images/cpp.png"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Mercurio",
+    "image": "/images/mercury.png",
+    "details": {
+      "masa": "3.30 × 10^23 kg",
+      "distancia_al_sol": "57.9 millones km",
+      "temperatura": "430 °C"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Venus",
+    "image": "/images/venus.png",
+    "details": {
+      "masa": "4.87 × 10^24 kg",
+      "distancia_al_sol": "108.2 millones km",
+      "temperatura": "471 °C"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tierra",
+    "image": "/images/Tierra.png",
+    "details": {
+      "masa": "5.97 × 10^24 kg",
+      "distancia_al_sol": "149.6 millones km",
+      "temperatura": "15 °C"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Marte",
+    "image": "/images/marte.png",
+    "details": {
+      "masa": "6.42 × 10^23 kg",
+      "distancia_al_sol": "227.9 millones km",
+      "temperatura": "-63 °C"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Júpiter",
+    "image": "/images/jupiter.png",
+    "details": {
+      "masa": "1.90 × 10^27 kg",
+      "distancia_al_sol": "778.3 millones km",
+      "temperatura": "-108 °C"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Saturno",
+    "image": "/images/saturno.png",
+    "details": {
+      "masa": "5.68 × 10^26 kg",
+      "distancia_al_sol": "1,429 millones km",
+      "temperatura": "-139 °C"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Urano",
+    "image": "/images/urano.png",
+    "details": {
+      "masa": "8.68 × 10^25 kg",
+      "distancia_al_sol": "2,871 millones km",
+      "temperatura": "-195 °C"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Neptuno",
+    "image": "/images/neptuno.png",
+    "details": {
+      "masa": "1.02 × 10^26 kg",
+      "distancia_al_sol": "4,498 millones km",
+      "temperatura": "-200 °C"
+    }
+  }
+]
